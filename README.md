@@ -6,10 +6,28 @@ This repository contains the necessary materials and instructions to finetune tr
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/dnlmoreno/Tutorial.-HuggingFace_Finetuning_Transformers_in_TimeSeries.git`
+1. Clone the repository: 
 
-2. Create a virtual environment and install the necessary libraries using: `pip install -r requirements.txt`
+```
+git clone https://github.com/dnlmoreno/Tutorial.-HuggingFace_Finetuning_Transformers_in_TimeSeries.git
+```
+
+2. Create a virtual environment and install the necessary libraries using: 
+
+```
+pip install -r requirements.txt
+```
 
 ## Data
 
-Download the required data using the provided script: `bash download_data.sh data_6bands_noGrid`
+Download the required data using the provided script: 
+
+```
+bash download_data.sh data_6bands_noGrid
+```
+
+## Run
+
+You should now be able to run the Notebooks.
+
+It is necessary to experiment with different learning rates and hyperparameters to evaluate the models' performance.
