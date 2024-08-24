@@ -1,0 +1,5 @@
+# Exclude the data directory
+data_6bands_noGrid/
+
+# Exclude model files
+*.pth
