@@ -1,1 +1,1 @@
-# Tutorial.-HuggingFace_Finetuning_Transformer_in_TimeSeries
+# Tutorial.-HuggingFace_Finetuning_Transformers_in_TimeSeries
